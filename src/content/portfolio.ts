@@ -133,7 +133,7 @@ export const projects: Project[] = [
     tagline: 'DSWP course project · OvGU',
     description:
       'Data science project on the outlook for EUR-to-INR money transfers, combining ECB exchange-rate data with ' +
-      "India's CPI data from MOSPI. tech: ['Python', 'Jupyter', 'Git'],
+      "India's CPI data from MOSPI." , tech: ['Python', 'Jupyter', 'Git'],
     demo: '',
     source: '', // add https://github.com/jayakrishnaaj/eur_to_inr_transfer_outlook once it's public
     status: 'In progress',
